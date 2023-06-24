@@ -1,0 +1,6 @@
+BUTTON_FOUR_NAME = "Owner"
+BUTTON_FOUR_URL = "@soumyah002"
+BUTTON_FIVE_NAME = "OfficialGroup"
+BUTTON_FIVE_URL = "https://t.me/Kentamirror"
+BUTTON_SIX_NAME = "Support Us 🌟 "
+BUTTON_SIX_URL = "https://telegra.ph/Kenta-Bot-Donate-06-24"
